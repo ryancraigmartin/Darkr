@@ -1,0 +1,42 @@
+{
+  "name": "darkr",
+  "displayName": "Darkr",
+  "description": "Darkr, a dark theme for VSCode by Ryan Craig Martin",
+  "publisher": "ryancraigmartin",
+  "icon": "darkr.png",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryancraigmartin/Darkr.git"
+  },
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "darkr",
+    "theme",
+    "colors",
+    "darcula",
+    "colorful",
+    "dark theme",
+    "night owl",
+    "one dark pro"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darkr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkr-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#1E2229",
+    "theme": "dark"
+  }
+}
