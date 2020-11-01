@@ -1,5 +1,5 @@
 <center>
-  <img src="./darkr.png" width="50%">
+  <img src="assets/images/darkr.png" width="50%">
 </center>
 
 # Darkr
@@ -17,11 +17,11 @@ Darkr currently comes in a few variations including varying degrees of darkness 
   *  Darkrrrr
   *  Darkrrrrr
 
-![Background Color Palette](../darkr/assets/images/background-palette.svg)
+![Background Color Palette](assets/images/background-palette.svg)
 
 The main color palette contains the following colors:
 
-![Main Color Palette](../darkr/assets/images/main-palette.svg)
+![Main Color Palette](assets/images/main-palette.svg)
 
 ### Community Variations on Darkr
 
