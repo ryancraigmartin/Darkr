@@ -3,11 +3,11 @@
   "displayName": "Darkr",
   "description": "Darkr is a colorful, effective dark theme for VSCode by Ryan Craig Martin",
   "publisher": "ryancraigmartin",
-  "icon": "darkr.png",
-  "version": "0.0.3",
+  "icon": "assets/images/darkr.png",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryancraigmartin/Darkr.git"
+    "url": "https://github.com/ryancraigmartin/Darkr"
   },
   "engines": {
     "vscode": "^1.50.0"

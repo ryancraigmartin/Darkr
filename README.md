@@ -17,11 +17,11 @@ Darkr currently comes in a few variations including varying degrees of darkness 
   *  Darkrrrr
   *  Darkrrrrr
 
-![Background Color Palette](assets/images/background-palette.svg)
+![Background Color Palette](assets/images/BackgroundColors.png)
 
-The main color palette contains the following colors:
+The editor color palette contains the following colors:
 
-![Main Color Palette](assets/images/main-palette.svg)
+![Main Color Palette](assets/images/EditorColors.png)
 
 ### Community Variations on Darkr
 
