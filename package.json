@@ -1,10 +1,10 @@
 {
   "name": "darkr",
   "displayName": "Darkr",
-  "description": "Darkr, a dark theme for VSCode by Ryan Craig Martin",
+  "description": "Darkr is a colorful, effective dark theme for VSCode by Ryan Craig Martin",
   "publisher": "ryancraigmartin",
   "icon": "darkr.png",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/ryancraigmartin/Darkr.git"
@@ -31,7 +31,52 @@
       {
         "label": "Darkr",
         "uiTheme": "vs-dark",
-        "path": "./themes/Darkr-color-theme.json"
+        "path": "./themes/Darkr-Green-color-theme.json"
+      },
+      {
+        "label": "Darkrr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrr-Green-color-theme.json"
+      },
+      {
+        "label": "Darkrrr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrrr-Green-color-theme.json"
+      },
+      {
+        "label": "Darkrrrr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrrrr-Green-color-theme.json"
+      },
+      {
+        "label": "Darkrrrrr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrrrrr-Green-color-theme.json"
+      },
+      {
+        "label": "Darkr - Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkr-Purple-color-theme.json"
+      },
+      {
+        "label": "Darkrr - Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrr-Purple-color-theme.json"
+      },
+      {
+        "label": "Darkrrr - Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrrr-Purple-color-theme.json"
+      },
+      {
+        "label": "Darkrrrr - Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrrrr-Purple-color-theme.json"
+      },
+      {
+        "label": "Darkrrrrr - Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darkrrrrr-Purple-color-theme.json"
       }
     ]
   },
